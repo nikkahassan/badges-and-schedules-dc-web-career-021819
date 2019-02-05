@@ -24,5 +24,3 @@ def printer(name)
     puts room
     end
 end
-
-printer(name)
