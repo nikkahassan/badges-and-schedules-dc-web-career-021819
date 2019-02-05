@@ -21,6 +21,6 @@ end
     puts guests
   end
   assign_rooms(guests).each do |guests|
-    puts guests
+    puts room
   end
 end 
